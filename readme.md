@@ -1,6 +1,6 @@
 
 <font face="MS PGothic">
-<pre>
+<pre style="font-family:'MS PGothic';">
 　　　　　　　　　　　　　　　　　　 ,　-――--――- ､
 　　　　　　　　　　　　　　　＿ ／　　　　,. -― ､　 　 ,＞‐ ¨⌒ヽ
 　　　　　　　　　　　 　／　　　　　　　 / -‐ 、　 .　　l　 　　　 　 ｀､
